@@ -76,9 +76,40 @@ b. ¿Cuál es la constante de tiempo de descarga?
 
 c. Determine las ecuaciones de descarga para vC e iC.
 
+33. Para el circuito de la figura 11-54, el capacitor está inicialmente descargado.
+
+El interruptor es movido primero a la posición de carga y luego a la de descarga, proporcionando la corriente que se muestra en la figura 11-58. El capacitor se carga totalmente en 12.5 s. Determine E, R2 y C
+
+35. Determine los voltajes del capacitor y la corriente de la fuente para el circuito de la figura 11-60 después de que se alcanzó el estado estable. 
+
+37. Para el circuito de alarma de la figura 11-32, si la entrada desde el sensor es de 5 V, R = 750 kΩ y la alarma es activada en 15 s cuando vC = 3.8 V, ¿qué
+valor tiene C?
+
+39. Considere la forma de onda de la figura 11-62.
+
+a. ¿Cuál es el periodo?
+
+b. ¿Cuál es el ciclo de trabajo?
+
+c. ¿Cuál es el VRP?
+
+41. Determine el tiempo de subida, de bajada y el ancho de pulso para el pulso de la figura 11-64
+
+43. Se aplica un escalón al circuito de la figura 11-66. Si R = 150Ω y C = 20 pF,estime el tiempo que tarda en subir el voltaje de salida.
+
 CAPITULO 12
 
+22. Para el circuito de la figura 12-52, Ø = 25 000 líneas. El factor de apilamiento para la porción de la hoja de acero es de 0.95. Encuentre la corriente I. 
+
 24. Para la figura 12-53, si Ø g  80 X μWb, encuentre I.
+
+26. Un circuito magnético de acero fundido con N = 2500 vueltas, I = 200 mA y un área de sección transversal de 0.02 m2 tiene un espacio de aire de 0.00254 m. Si se supone que 90% de la fmm aparece en el espacio, estime el flujo en el núcleo.
+
+28. Se corta un espacio de  = 0.004 m en el núcleo de la figura 12-54. Todo lo
+demás permanece igual. Encuentre el flujo, 	.
+
+30. Para el solenoide de la figura 12-28, Ø = 4 x 10^-4 Wb. Encuentre la fuerza de atracción en el émbolo en newtons y en libras
+
 # 4. Video
 
 
