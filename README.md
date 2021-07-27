@@ -24,11 +24,36 @@ Integrantes : César Garnica - Jonathan Insuasti - Melany Villa
 
 # 3. Explicación y Resolución
 
+17. Para la figura 11-2, determine E, R y C si el capacitor tarda 5 ms en cargarse,
+la corriente en 1 constante de tiempo después de que el interruptor se cierra es
+de 3.679 mA, y el capacitor se carga a 45 volts en estado estable.
+ 
+![](https://github.com/mjvilla1/ImagenesTarea6/blob/main/Ejercicio%2011.17.PNG) 
 
+19. El capacitor de la figura 11-50 tiene un voltaje inicial. Si V0  10 V, ¿cuál es
+la corriente justo después de que el interruptor se ha cerrado?
 
+21. Para el capacitor de la figura 11-51, V0  30 V.
+a. Determine la expresión para el voltaje de carga vC.
+b. Determine la expresión para la corriente iC.
+c. Grafique vC e iC.
 
+23. Para el circuito de la figura 11-53, suponga que el capacitor está cargado a
+50 V antes de que el interruptor se cierre.
+a. Determine la ecuación para el voltaje de descarga vC.
+b. Determine la ecuación para la corriente de descarga iC.
+c. Determine la constante de tiempo del circuito.
+d. Calcule vC e iC en t  0t s, t  t, 2, 3, 4, y 5t.
 
+25. Un capacitor de 4.7 F se carga a 43 volts. Si un resistor de 39 k se
+conecta al capacitor, ¿cuál es el voltaje, 200 ms después de que se conecta
+el resistor?
 
+27. Para la figura 11-54, sea E  200 V, R2  1 k y C  0.5 F. Después de
+que el capacitor está totalmente cargado en la posición 1, el interruptor es movido a la posición 2.
+a. ¿Qué voltaje tiene el capacitor inmediatamente después de que el interruptor es movido a la posición 2? ¿Cuál es la corriente?
+b. ¿Cuál es la constante de tiempo de descarga?
+c. Determine las ecuaciones de descarga para vC e iC.
 # 4. Video
 
 
