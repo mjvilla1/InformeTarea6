@@ -25,6 +25,63 @@ Integrantes : César Garnica - Jonathan Insuasti - Melany Villa
 
 # 3. Explicación y Resolución
 
+1. El capacitor de la figura 11-50 está descargado. a. ¿Cuál es el voltaje y la corriente del capacitor justo después de que se cierra el interruptor?
+ b. ¿Cuál es el voltaje y la corriente del capacitor después de que está totalmente cargado
+
+![](https://github.com/mjvilla1/ImagenesTarea6/blob/main/Ejercicio%2011.1.PNG)
+
+3.a.¿A qué se parece un capacitor descargado en el instante que se conecta el interruptor? 
+
+- A un corto circuito 
+
+b. ¿Cómo se ve un capacitor cargado en el instante que se acciona el interruptor? 
+
+-Semejante a una fuente de alimentación de voltaje  
+
+c. ¿A qué se parece un capacitor en estado estable de cd?
+
+-A un circuito abierto por condiciones constantes 
+
+d. ¿Qué se quiere decir con i(0(-)) y con i(0(+))?
+
+-i(0(-)) la corriente antes de t=0, i(0(+)) corriente despúes de t=0
+
+5.Para un circuito de carga, R=5.6kohm�y vC(0�)=0 V. Si i(0)=2.7mA, ¿cuál es el valor de E?
+
+![](https://github.com/mjvilla1/ImagenesTarea6/blob/main/Ejercicio%2011.5.PNG)
+
+7.Repita el problema 6 si R=500ohm, C=25uF y E=45V, pero ahora calcule y grafique valores en t 0 s, 20, 40, 60, 80 y 100 ms
+
+![](https://github.com/mjvilla1/ImagenesTarea6/blob/main/Ejercicio%2011.7.PNG)
+
+![](https://github.com/mjvilla1/ImagenesTarea6/blob/main/Ejercicio%2011.7%20B.PNG)
+
+9.Repita el problema 8 para el circuito de la figura 11-52.
+
+![](https://github.com/mjvilla1/ImagenesTarea6/blob/main/Ejercicio%2011.9.PNG)
+
+
+11.Determine la constante de tiempo para el circuito de la figura 11-50. 
+¿Cuánto tiempo (en segundos) tardará el capacitor en cargarse?
+
+![](https://github.com/mjvilla1/ImagenesTarea6/blob/main/Ejercicio%2011.11.PNG)
+
+13.Para la figura 11-50, el voltaje del capacitor con el interruptor abierto es de 0 V. 
+Cierre el interruptor en t=0 y determine el voltaje y corriente del capacitor en t 0, 40, 80, 120, 160 y 200 �s,
+use las curvas de la constante de tiempo universal.
+
+![](https://github.com/mjvilla1/ImagenesTarea6/blob/main/Ejercicio%2011.13.PNG)
+
+
+![](https://github.com/mjvilla1/ImagenesTarea6/blob/main/Ejercicio%2011.13%20B.PNG)
+
+
+15.Para la figura 11-2, la corriente se eleva a 3 mA cuando el interruptor se cierra.
+El capacitor tarda 1 s para cargarse. Si E=75 V, determine R y C.
+
+![](https://github.com/mjvilla1/ImagenesTarea6/blob/main/Ejercicio%2011.15.PNG)
+
+
 17. Para la figura 11-2, determine E, R y C si el capacitor tarda 5 ms en cargarse,
 la corriente en 1 constante de tiempo después de que el interruptor se cierra es
 de 3.679 mA, y el capacitor se carga a 45 volts en estado estable.
