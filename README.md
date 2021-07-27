@@ -46,9 +46,13 @@ c. Grafique vC e iC.
 
 23. Para el circuito de la figura 11-53, suponga que el capacitor está cargado a
 50 V antes de que el interruptor se cierre.
+
 a. Determine la ecuación para el voltaje de descarga vC.
+
 b. Determine la ecuación para la corriente de descarga iC.
+
 c. Determine la constante de tiempo del circuito.
+
 d. Calcule vC e iC en t  0t s, t  t, 2, 3, 4, y 5t.
 
 25. Un capacitor de 4.7 μF se carga a 43 volts. Si un resistor de 39 kΩ se
@@ -57,8 +61,11 @@ el resistor?
 
 27. Para la figura 11-54, sea E  200 V, R2  1 kΩ y C  0.5 μF. Después de
 que el capacitor está totalmente cargado en la posición 1, el interruptor es movido a la posición 2.
+
 a. ¿Qué voltaje tiene el capacitor inmediatamente después de que el interruptor es movido a la posición 2? ¿Cuál es la corriente?
+
 b. ¿Cuál es la constante de tiempo de descarga?
+
 c. Determine las ecuaciones de descarga para vC e iC.
 
 CAPITULO 12
