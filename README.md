@@ -7,10 +7,11 @@ Integrantes : César Garnica - Jonathan Insuasti - Melany Villa
 
     Objetivo General 
 
-    Analizar e identificar los tipos de capacitores la carga y descarga de los mismos que son los formadores de ondas simples,
-    sus  formas de utilizar los metodos adecuados al momento de realizar la resolución de circuitos con capacitores mediantes 
-    el analisis correspondiente a estudiar en estos capitulos aplicar el conocimiento adquirido en los capitulos 11 y 12 que nos 
-    serviran de guía para futuros métodos de resolución de circuitos.
+    Analizar e identificar los tipos de capacitores la carga y descarga de los mismos que son los formadores
+    de ondas simples, sus  formas de utilizar los metodos adecuados al momento de realizar la resolución de 
+    circuitos con capacitores mediantes el analisis correspondiente a estudiar en estos capitulos aplicar el 
+    conocimiento adquirido en los capitulos 11 y 12 que nos serviran de guía para futuros métodos de resolución 
+    de circuitos.
 
   
     Objetivos Específicos
