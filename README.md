@@ -36,15 +36,15 @@ Integrantes : César Garnica - Jonathan Insuasti - Melany Villa
 
 b. ¿Cómo se ve un capacitor cargado en el instante que se acciona el interruptor? 
 
--Semejante a una fuente de alimentación de voltaje  
+- Semejante a una fuente de alimentación de voltaje  
 
 c. ¿A qué se parece un capacitor en estado estable de cd?
 
--A un circuito abierto por condiciones constantes 
+- A un circuito abierto por condiciones constantes 
 
 d. ¿Qué se quiere decir con i(0(-)) y con i(0(+))?
 
--i(0(-)) la corriente antes de t=0, i(0(+)) corriente despúes de t=0
+- i(0(-)) la corriente antes de t=0, i(0(+)) corriente despúes de t=0
 
 5.Para un circuito de carga, R=5.6kohm�y vC(0�)=0 V. Si i(0)=2.7mA, ¿cuál es el valor de E?
 
