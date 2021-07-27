@@ -29,6 +29,7 @@ la corriente en 1 constante de tiempo después de que el interruptor se cierra e
 de 3.679 mA, y el capacitor se carga a 45 volts en estado estable.
  
 ![](https://github.com/mjvilla1/ImagenesTarea6/blob/main/Ejercicio%2011.17.PNG) 
+![](https://github.com/mjvilla1/ImagenesTarea6/blob/main/Ejercicio%2011.17.1.PNG)
 
 19. El capacitor de la figura 11-50 tiene un voltaje inicial. Si V0  10 V, ¿cuál es
 la corriente justo después de que el interruptor se ha cerrado?
