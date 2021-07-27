@@ -70,6 +70,8 @@ d. Calcule vC e iC en t  0t s, t  t, 2, 3, 4, y 5t.
 conecta al capacitor, ¿cuál es el voltaje, 200 ms después de que se conecta
 el resistor?
 
+![](https://github.com/mjvilla1/ImagenesTarea6/blob/main/Ejercicio%2011.25.PNG)
+
 27. Para la figura 11-54, sea E  200 V, R2  1 kΩ y C  0.5 μF. Después de
 que el capacitor está totalmente cargado en la posición 1, el interruptor es movido a la posición 2.
 
