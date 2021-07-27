@@ -37,8 +37,11 @@ la corriente justo después de que el interruptor se ha cerrado?
 ![](https://github.com/mjvilla1/ImagenesTarea6/blob/main/Ejercicio%2011.19.PNG)
 
 21. Para el capacitor de la figura 11-51, V0  30 V.
+
 a. Determine la expresión para el voltaje de carga vC.
+
 b. Determine la expresión para la corriente iC.
+
 c. Grafique vC e iC.
 
 23. Para el circuito de la figura 11-53, suponga que el capacitor está cargado a
