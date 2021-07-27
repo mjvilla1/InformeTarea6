@@ -23,6 +23,8 @@ Integrantes : César Garnica - Jonathan Insuasti - Melany Villa
 
 ![](https://github.com/mjvilla1/ImagenesTarea6/blob/main/Capacitancia.PNG)
 
+![](https://github.com/mjvilla1/ImagenesTarea6/blob/main/Energia%20(1).png)
+
 # 3. Explicación y Resolución
 
 1. El capacitor de la figura 11-50 está descargado. a. ¿Cuál es el voltaje y la corriente del capacitor justo después de que se cierra el interruptor?
