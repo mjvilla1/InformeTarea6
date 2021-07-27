@@ -20,7 +20,7 @@ Integrantes : César Garnica - Jonathan Insuasti - Melany Villa
 
 # 2. Marco Teórico
 
-
+![](https://github.com/mjvilla1/ImagenesTarea6/blob/main/Capacitancia.PNG)
 
 # 3. Explicación y Resolución
 
@@ -89,7 +89,8 @@ en t  0. Determine la ecuación para vC. Calcule vC a una constante de tiempo
 usando la ecuación y la curva de constante de tiempo universal. Compare sus
 respuestas.
 
-
+![](https://github.com/mjvilla1/ImagenesTarea6/blob/main/Ejercicio%2011.29.PNG)
+![](https://github.com/mjvilla1/ImagenesTarea6/blob/main/Ejercicio%2011.29.1.PNG)
 
 33. Para el circuito de la figura 11-54, el capacitor está inicialmente descargado.
 
