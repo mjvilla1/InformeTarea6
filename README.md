@@ -84,6 +84,13 @@ c. Determine las ecuaciones de descarga para vC e iC.
 ![](https://github.com/mjvilla1/ImagenesTarea6/blob/main/Ejercicio%2011.27.PNG)
 ![](https://github.com/mjvilla1/ImagenesTarea6/blob/main/Ejercicio%2011.27.1.PNG)
 
+29. Los capacitores de la figura 11-55 están descargados. El interruptor se cierra
+en t  0. Determine la ecuación para vC. Calcule vC a una constante de tiempo
+usando la ecuación y la curva de constante de tiempo universal. Compare sus
+respuestas.
+
+
+
 33. Para el circuito de la figura 11-54, el capacitor está inicialmente descargado.
 
 ![](https://github.com/mjvilla1/ImagenesTarea6/blob/main/11-54.jpeg)
