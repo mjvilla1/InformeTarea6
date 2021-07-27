@@ -63,6 +63,9 @@ c. Determine la constante de tiempo del circuito.
 
 d. Calcule vC e iC en t  0t s, t  t, 2, 3, 4, y 5t.
 
+![](https://github.com/mjvilla1/ImagenesTarea6/blob/main/Ejercicio%2011.23.PNG)
+![](https://github.com/mjvilla1/ImagenesTarea6/blob/main/Ejercicio%2011.23.1.PNG)
+
 25. Un capacitor de 4.7 μF se carga a 43 volts. Si un resistor de 39 kΩ se
 conecta al capacitor, ¿cuál es el voltaje, 200 ms después de que se conecta
 el resistor?
