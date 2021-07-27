@@ -197,9 +197,15 @@ CAPITULO 12
 
 26. Un circuito magnético de acero fundido con N = 2500 vueltas, I = 200 mA y un área de sección transversal de 0.02 m2 tiene un espacio de aire de 0.00254 m. Si se supone que 90% de la fmm aparece en el espacio, estime el flujo en el núcleo.
 
-28. Se corta un espacio de  = 0.004 m en el núcleo de la figura 12-54. Todo lo demás permanece igual. Encuentre el flujo, Ø.
+28. Se corta un espacio de l = 0.004 m en el núcleo de la figura 12-54. Todo lo demás permanece igual. Encuentre el flujo, Ø.
+
+![](https://github.com/mjvilla1/ImagenesTarea6/blob/main/12-54.jpeg)
 
 30. Para el solenoide de la figura 12-28, Ø = 4 x 10^-4 Wb. Encuentre la fuerza de atracción en el émbolo en newtons y en libras
+
+![](https://github.com/mjvilla1/ImagenesTarea6/blob/main/12-28.jpeg)
+
+![](https://github.com/mjvilla1/ImagenesTarea6/blob/main/ej%2012-30.jpeg)
 
 # 4. Video
 
