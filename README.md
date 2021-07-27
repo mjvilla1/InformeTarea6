@@ -16,8 +16,11 @@ Integrantes : César Garnica - Jonathan Insuasti - Melany Villa
   
     Objetivos Específicos
      
-
-
+    - Estudiar el valor de la intensidad instantánea que circula por un circuito RC conectado a una fuente 
+    de corriente contínua y de la carga que va adquiriendo un condensador mientras tiene lugar el proceso de carga y descaga.
+    - Comprobar que la corriente en un circuito RC y la carga en el condensador,varían con el tiempo, en el proceso de carga
+    y descarga de un condensador.
+    - Determinar teórica y experimentalmente la constante de tiempo del circuito RC.
 
 # 2. Marco Teórico
 
@@ -215,7 +218,9 @@ CAPITULO 12
 
 # 5. Conclusiones
 
-
+- Diferenciamos los procesos de carga y descarga de un condensador por medio de dos diferentes resistencias, observando que se produce la misma tendencia.
+- Observamos que los procesos de carga y descarga varían segun el tiempo.
+- Los valores mínimos de corriente, dependen en gran medida de la frecuenciade cambio carga-descarga.
  
 
 # 6. Bibliografia 
