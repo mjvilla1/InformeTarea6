@@ -82,7 +82,6 @@ b. ¿Cuál es la constante de tiempo de descarga?
 c. Determine las ecuaciones de descarga para vC e iC.
 
 ![](https://github.com/mjvilla1/ImagenesTarea6/blob/main/Ejercicio%2011.27.PNG)
-
 ![](https://github.com/mjvilla1/ImagenesTarea6/blob/main/Ejercicio%2011.27.1.PNG)
 
 33. Para el circuito de la figura 11-54, el capacitor está inicialmente descargado.
