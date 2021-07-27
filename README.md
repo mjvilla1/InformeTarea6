@@ -34,6 +34,8 @@ de 3.679 mA, y el capacitor se carga a 45 volts en estado estable.
 19. El capacitor de la figura 11-50 tiene un voltaje inicial. Si V0  10 V, ¿cuál es
 la corriente justo después de que el interruptor se ha cerrado?
 
+![](https://github.com/mjvilla1/ImagenesTarea6/blob/main/Ejercicio%2011.19.PNG)
+
 21. Para el capacitor de la figura 11-51, V0  30 V.
 a. Determine la expresión para el voltaje de carga vC.
 b. Determine la expresión para la corriente iC.
