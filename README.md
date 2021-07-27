@@ -63,9 +63,6 @@ c. Determine la constante de tiempo del circuito.
 
 d. Calcule vC e iC en t  0t s, t  t, 2, 3, 4, y 5t.
 
-![](https://github.com/mjvilla1/ImagenesTarea6/blob/main/Ejercicio%2011.23.PNG)
-![](https://github.com/mjvilla1/ImagenesTarea6/blob/main/Ejercicio%2011.23.1.PNG)
-
 25. Un capacitor de 4.7 μF se carga a 43 volts. Si un resistor de 39 kΩ se
 conecta al capacitor, ¿cuál es el voltaje, 200 ms después de que se conecta
 el resistor?
@@ -81,14 +78,24 @@ c. Determine las ecuaciones de descarga para vC e iC.
 
 33. Para el circuito de la figura 11-54, el capacitor está inicialmente descargado.
 
+![](https://github.com/mjvilla1/ImagenesTarea6/blob/main/11-54.jpeg)
+
 El interruptor es movido primero a la posición de carga y luego a la de descarga, proporcionando la corriente que se muestra en la figura 11-58. El capacitor se carga totalmente en 12.5 s. Determine E, R2 y C
 
+![](https://github.com/mjvilla1/ImagenesTarea6/blob/main/11-58.jpeg)
+
 35. Determine los voltajes del capacitor y la corriente de la fuente para el circuito de la figura 11-60 después de que se alcanzó el estado estable. 
+
+![](https://github.com/mjvilla1/ImagenesTarea6/blob/main/11-60.jpeg)
 
 37. Para el circuito de alarma de la figura 11-32, si la entrada desde el sensor es de 5 V, R = 750 kΩ y la alarma es activada en 15 s cuando vC = 3.8 V, ¿qué
 valor tiene C?
 
+![](https://github.com/mjvilla1/ImagenesTarea6/blob/main/11-32.jpeg)
+
 39. Considere la forma de onda de la figura 11-62.
+
+![](https://github.com/mjvilla1/ImagenesTarea6/blob/main/11-62.jpeg)
 
 a. ¿Cuál es el periodo?
 
@@ -98,13 +105,21 @@ c. ¿Cuál es el VRP?
 
 41. Determine el tiempo de subida, de bajada y el ancho de pulso para el pulso de la figura 11-64
 
+![](https://github.com/mjvilla1/ImagenesTarea6/blob/main/11-64.jpeg)
+
 43. Se aplica un escalón al circuito de la figura 11-66. Si R = 150Ω y C = 20 pF,estime el tiempo que tarda en subir el voltaje de salida.
+
+![](https://github.com/mjvilla1/ImagenesTarea6/blob/main/11-66.jpeg)
 
 CAPITULO 12
 
 22. Para el circuito de la figura 12-52, Ø = 25 000 líneas. El factor de apilamiento para la porción de la hoja de acero es de 0.95. Encuentre la corriente I. 
 
+![](https://github.com/mjvilla1/ImagenesTarea6/blob/main/12-52.jpeg)
+
 24. Para la figura 12-53, si Ø g  80 X μWb, encuentre I.
+
+![](https://github.com/mjvilla1/ImagenesTarea6/blob/main/12-53.jpeg)
 
 26. Un circuito magnético de acero fundido con N = 2500 vueltas, I = 200 mA y un área de sección transversal de 0.02 m2 tiene un espacio de aire de 0.00254 m. Si se supone que 90% de la fmm aparece en el espacio, estime el flujo en el núcleo.
 
