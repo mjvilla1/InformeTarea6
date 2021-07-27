@@ -54,6 +54,10 @@ que el capacitor está totalmente cargado en la posición 1, el interruptor es m
 a. ¿Qué voltaje tiene el capacitor inmediatamente después de que el interruptor es movido a la posición 2? ¿Cuál es la corriente?
 b. ¿Cuál es la constante de tiempo de descarga?
 c. Determine las ecuaciones de descarga para vC e iC.
+
+CAPITULO 12
+
+24. Para la figura 12-53, si Ø g  80 X μWb, encuentre I.
 # 4. Video
 
 
